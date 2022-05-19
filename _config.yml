@@ -24,15 +24,15 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: jo
-  description: jo
+  name: gyu hyung Jo
+  description: gyu hyung Jo
   contact:
     # linkedin:  https://www.linkedin.com/in/
     github:    https://github.com/gyu-hyung
     #    facebook:
     # twitter:
     # weibo:
-    email:   https://gyu-hyung.github.io/gyu-hyung.git.io/
+    email:   rod5603@daum.net , gud5603@gmail.com
 
 google_analytics:
   ua: 'G-SZ1NPRPE9J'
