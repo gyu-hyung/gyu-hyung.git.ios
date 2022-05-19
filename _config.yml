@@ -3,7 +3,7 @@ title: ""
 tagline: ""
 description: ""
 baseurl: ""
-url: https:/Seulgi-S.github.io(Repository 주소)
+url: https://gyu-hyung.github.io/gyu-hyung.git.io/
 logo: ""
 
 # Site configurations
@@ -24,15 +24,15 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Seul gi Kim(자신의 이름)
-  description: Seul gi Kim(자신의 이름)
+  name: jo
+  description: jo
   contact:
     # linkedin:  https://www.linkedin.com/in/
-    github:    https://github.com/Seulgi-S(자신의 깃주소)
+    github:    https://github.com/gyu-hyung
     #    facebook:
     # twitter:
     # weibo:
-    email:    mailto:sgi7802@kakao.com(자신의 이메일)
+    email:   https://gyu-hyung.github.io/gyu-hyung.git.io/
 
 google_analytics:
   ua: 'G-SZ1NPRPE9J'
